@@ -1,6 +1,6 @@
-# Tic Tac Toe Server
+# BINGO Server
 
-This is a server for playing a multiplayer Tic Tac Toe game. 
+This is a server for playing a multiplayer BINGO game. 
 
 It has these endpoints:
 
@@ -18,6 +18,5 @@ It has these endpoints:
 * Install the dependencies using `yarn install`
 * Compile the app (Typescript > Javascript) using `yarn compile` (during development you can use `yarn watch`)
 * `yarn start`
+ 
 
-You can run the tests with `yarn test`. Currently they only cover the game logic. 
-# BINGO_SERVER_typescript
